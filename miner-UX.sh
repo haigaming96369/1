@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./cpuminer-avx512 -a cpupower -o stratum+tcps://stratum-asia.rplant.xyz:17029 -u CRj1xgFjpcpgF3sCWvmvgxAxsisHpK2yAb.003 -p 04072008
+./cpuminer-avx512 -a yespowerurx  -o stratum+tcps://stratum-asia.rplant.xyz:13361 -u UmAGr1rQDqULpQULyTfQ6uS1FHcRh5AAvt.002 -p password=04072008
 sleep 5
 done
